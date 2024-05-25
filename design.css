@@ -1,0 +1,36 @@
+.one{
+    background-color: rgb(219, 103, 237);
+  
+}
+
+
+
+.contact{
+    height: 800px;
+    background-color: rgb(219, 215, 215);
+   
+}
+.footer{
+    background-color:  #ff51f3;
+    height: 200px;
+   height: 350px;
+   
+}
+.foot{
+    background-color:  #d611d6;
+    height: 100px;
+}
+#o{
+    background-color:rgba(0, 0, 0, 0.5);
+   
+}
+#p{
+    background-color:rgba(0, 0, 100, 0.6);
+}
+#ii{
+    color: rgb(223, 194, 63);
+   
+}
+h5{
+    background-color: red;
+}
